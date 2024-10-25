@@ -1,0 +1,10 @@
+xyz 123 0
+Shivi 789 0
+Shivi 789 6000
+Shivi 789 5550
+Shlok 456 0
+Shlok 456 5000
+Shlok 456 4910
+Prashik 543 0
+Prashik 543 4500
+Prashik 543 4400
